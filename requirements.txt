@@ -4,3 +4,4 @@ accelerate==1.11.0
 torch==2.9.1
 evaluate==0.4.6
 scikit-learn==1.7.2
+matplotlib
